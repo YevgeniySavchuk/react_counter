@@ -1,0 +1,2 @@
+body{background-color:#00f}.app{display:flex;flex-direction:column;align-items:center}.app__title{padding:100px;text-transform:uppercase;color:#ff0}.app__button-block{display:flex;grid-gap:50px;gap:50px}.app__button{font-size:20px;height:100px;width:100px;color:#00f;background-color:#ff0;border:1px solid #00f;border-radius:50%;transition:all .5s}.app__button:hover{cursor:pointer;height:150px;width:100px;background-color:#fff;border-radius:50% 50% 50% 50%/60% 60% 40% 40%;-webkit-transform:scale(1.2);transform:scale(1.2)}
+/*# sourceMappingURL=main.ff335c53.chunk.css.map */
